@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/novak-brothers-electricians-llc-countryside/sitemap.xml
+Sitemap: https://local-business-guides.github.io/novak-brothers-electricians-llc-countryside/news-sitemap.xml

@@ -23,6 +23,9 @@
 - [Best Electrician Il Countryside](https://local-business-guides.github.io/novak-brothers-electricians-llc-countryside/best-electrician-il-countryside/): Best Electrician Il Countryside help for clear next steps on home electrical issues in Countryside, IL. Call Novak Brothers Electricians LLC today.
 - [Top Rated Electrician Il Countryside](https://local-business-guides.github.io/novak-brothers-electricians-llc-countryside/top-rated-electrician-il-countryside/): Top Rated Electrician Il Countryside guidance to help you discuss electrical concerns in Countryside, IL. Call Novak Brothers Electricians LLC today.
 
+## Newsroom
+- [Novak Brothers Electricians LLC Publishes Electrician Guide for Countryside](https://local-business-guides.github.io/novak-brothers-electricians-llc-countryside/news/2026-11-09-novak-brothers-electricians-llc-publishes/): Novak Brothers Electricians LLC published a Countryside electrician guide this week, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-09)
+
 ## Pages
 - [Electrician in Countryside, Illinois](https://local-business-guides.github.io/novak-brothers-electricians-llc-countryside/): Get clear guidance for electrical concerns from Novak Brothers Electricians LLC in Countryside. Call +1708-627-9652.
 - [About Novak Brothers Electricians LLC](https://local-business-guides.github.io/novak-brothers-electricians-llc-countryside/about/): About Novak Brothers Electricians LLC, Countryside.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/novak-brothers-electricians-llc-countryside/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/novak-brothers-electricians-llc-countryside/news/rss.xml)
 - [Main resource site](https://novak-brothers-electricians-countryside.localbusinesses1.chatgpt.site)
